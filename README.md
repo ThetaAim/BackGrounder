@@ -1,2 +1,2 @@
 # BackGrounder
-A Background Changer Tool for Windows
+A Background Image Changer and Creator for Windows Tool
